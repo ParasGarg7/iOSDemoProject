@@ -1,0 +1,6 @@
+framework module Pods_MultipleEnvApp {
+  umbrella header "Pods-MultipleEnvApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
